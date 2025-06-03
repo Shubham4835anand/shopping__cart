@@ -1,0 +1,148 @@
+const products = [
+  {
+    name: 'IPhone 16 Pro 512GB Memory',
+    image: '/images/16promax.webp',
+    description:
+      'Latest series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 1299.00,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Airpods Wireless Bluetooth Headphones',
+    image: '/images/airpods.jpg',
+    description:
+      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 89.99,
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'iPhone 11 Pro 256GB Memory',
+    image: '/images/phone.jpg',
+    description:
+      'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 599.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Cannon EOS 80D DSLR Camera',
+    image: '/images/camera.jpg',
+    description:
+      'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+    brand: 'Cannon',
+    category: 'Electronics',
+    price: 929.99,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Sony Playstation 4 Pro White Version',
+    image: '/images/playstation.jpg',
+    description:
+      'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+    brand: 'Sony',
+    category: 'Electronics',
+    price: 399.99,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Logitech G-Series Gaming Mouse',
+    image: '/images/mouse.jpg',
+    description:
+      'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+    brand: 'Logitech',
+    category: 'Electronics',
+    price: 49.99,
+    countInStock: 7,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Amazon Echo Dot 3rd Generation',
+    image: '/images/alexa.jpg',
+    description:
+      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+    brand: 'Amazon',
+    category: 'Electronics',
+    price: 29.99,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Samsung Galaxy S21 Ultra 128GB',
+    image: '/images/sg21.jfif',
+    description:
+      'The Galaxy S21 Ultra features a stunning 108MP camera, an immersive 6.8" display, and powerful battery life, designed for professionals and content creators.',
+    brand: 'Samsung',
+    category: 'Electronics',
+    price: 1199.99,
+    countInStock: 5,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Dell XPS 13 Laptop',
+    image: '/images/xps.jfif',
+    description:
+      'A perfect blend of performance and portability, the Dell XPS 13 is a powerful laptop with stunning 4K display and long battery life.',
+    brand: 'Dell',
+    category: 'Electronics',
+    price: 999.99,
+    countInStock: 8,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Fitbit Versa 3 Health Smartwatch',
+    image: '/images/fitbit.jfif',
+    description:
+      'Stay connected, track your fitness goals, and monitor your health with the Fitbit Versa 3, featuring built-in GPS and heart rate tracking.',
+    brand: 'Fitbit',
+    category: 'Electronics',
+    price: 229.95,
+    countInStock: 15,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Bose QuietComfort 35 II Headphones',
+    image: '/images/bose.jfif',
+    description:
+      'Experience world-class noise cancellation with Bose QuietComfort 35 II, designed for the best listening experience with Alexa built-in.',
+    brand: 'Bose',
+    category: 'Electronics',
+    price: 299.99,
+    countInStock: 4,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'GoPro HERO9 Black Action Camera',
+    image: '/images/gopro.jfif',
+    description:
+      'Capture stunning 5K video and 20MP photos with the GoPro HERO9 Black, featuring a durable design and advanced stabilization technology.',
+    brand: 'GoPro',
+    category: 'Electronics',
+    price: 399.99,
+    countInStock: 12,
+    rating: 0,
+    numReviews: 0,
+  },
+]
+
+export default products;
